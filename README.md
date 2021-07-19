@@ -3,7 +3,7 @@
 **Esercizio 1-2-3 Link Miro:** 
 https://miro.com/app/board/o9J_l6a254M=/
 
-**Esercizio 4 Link Figma:**
+**Esercizio 4 Link Figma:** https://www.figma.com/file/1gu7YZeuW0h6WuR1OfE8Zp/Esame-Finale-FEX---Serafin-Andrea?node-id=2%3A6
 
 
 **Esercizio 5:**
